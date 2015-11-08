@@ -1,10 +1,3 @@
-/* Project Team Members 
-
-Sridharan Rajagopalan - 1207570360
-Karan Maniar - 1209340037
-Santhosh Samuel Murali - 1207681887
-*/
-
 #include "threads.h"
 
 int count = 1;
